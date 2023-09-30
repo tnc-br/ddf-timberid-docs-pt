@@ -1,0 +1,11 @@
+code,code lab,point,sample_name,trusted,collection_site,lat,lon,site,municipality,species,date_collected,state,d18O_cel,d15N_wood,n_wood,d13C_wood,d13C_cel,c_cel
+mad1111,ZAC 111,0%,Amzn0,untrusted,Sao Gabriel Da Cachoeira,-0.122,-68.013,Sao Gabriel Da Cachoeira,Sao Gabriel Da Cachoeira,ipe,09/23/2023,Amazonas,25,3.2,0.1,-32,-30.2,41
+mad1111,ZAC 112,25%,Amzn0,untrusted,Sao Gabriel Da Cachoeira,-0.122,-68.013,Sao Gabriel Da Cachoeira,Sao Gabriel Da Cachoeira,ipe,09/23/2023,Amazonas,25,3.2,0.1,-32,-25.9,41
+mad1111,ZAC 113,50%,Amzn0,untrusted,Sao Gabriel Da Cachoeira,-0.122,-68.013,Sao Gabriel Da Cachoeira,Sao Gabriel Da Cachoeira,ipe,09/23/2023,Amazonas,25,3.2,0.1,-32,-30.2,41.9
+mad1111,ZAC 114,75%,Amzn0,untrusted,Sao Gabriel Da Cachoeira,-0.122,-68.013,Sao Gabriel Da Cachoeira,Sao Gabriel Da Cachoeira,ipe,09/23/2023,Amazonas,25,3.2,0.1,-31,-30.2,41.9
+mad1111,ZAC 115,100%,Amzn0,untrusted,Sao Gabriel Da Cachoeira,-0.122,-68.013,Sao Gabriel Da Cachoeira,Sao Gabriel Da Cachoeira,ipe,09/23/2023,Amazonas,25,3.2,0.1,-32,-30.2,41.9
+mad1112,ZAC 116,0%,Amzn1,trusted,Manaus,-5,-64,Manaus,Manaus,ucuuba puna,09/23/2023,Amazonas,26,3.5,0.2,-33,-30.2,42
+mad1112,ZAC 117,25%,Amzn1,trusted,Manaus,-5,-64,Manaus,Manaus,ucuuba puna,09/23/2023,Amazonas,26,3.5,0.2,-33,-25.9,42
+mad1112,ZAC 118,50%,Amzn1,trusted,Manaus,-5,-64,Manaus,Manaus,ucuuba puna,09/23/2023,Amazonas,26,3.5,0.2,-33,-30.2,42
+mad1112,ZAC 119,75%,Amzn1,trusted,Manaus,-5,-64,Manaus,Manaus,ucuuba puna,09/23/2023,Amazonas,26,3.5,0.2,-33,-30.2,42
+mad1112,ZAC 120,100%,Amzn1,trusted,Manaus,-5,-64,Manaus,Manaus,ucuuba puna,09/23/2023,Amazonas,26,3.5,0.2,-33,-30.2,42

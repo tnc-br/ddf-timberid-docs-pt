@@ -1,0 +1,16 @@
+code,code lab,Point,treatement,Species,d18O_wood,site,state,lat,lon,date_collected,VPD,RH,PET,DEM,PA,Mean Annual Temperature,Mean Annual Precipitation,d18O Precipitation,trusted
+mad0,ZAC 405,0%,celulose ,ucuuba puna,26.89675131,sao gabriel da cachoeira,amazonas ,-5,-64,set/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad0,ZAC 406,25%,celulose ,ucuuba puna,22.19467734,sao gabriel da cachoeira,amazonas ,-5,-64,set/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad0,ZAC 407,50%,celulose ,ucuuba puna,26.59800287,sao gabriel da cachoeira,amazonas ,-5,-64,set/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad0,ZAC 408,75%,celulose ,ucuuba puna,25.71722927,sao gabriel da cachoeira,amazonas ,-5,-64,set/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad0,ZAC 409,100%,celulose ,ucuuba puna,25.55301356,sao gabriel da cachoeira,amazonas ,-5,-64,set/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad41,ZAC 410,0%,celulose ,ucuuba puna,27.52434598,atalia do norte,amazonas ,-5,-64,ago/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad41,ZAC 411,25%,celulose ,ucuuba puna,27.49598211,atalia do norte,amazonas ,-5,-64,ago/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad41,ZAC 412,50%,celulose ,ucuuba puna,26.60846184,atalia do norte,amazonas ,-5,-64,ago/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad41,ZAC 413,75%,celulose ,ucuuba puna,22.26921913,atalia do norte,amazonas ,-5,-64,ago/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad41,ZAC 414,100%,celulose ,ucuuba puna,23.92655639,atalia do norte,amazonas ,-5,-64,ago/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad3,ZAC 415,0%,celulose ,ucuuba puna,26.62938559,sao gabriel da cachoeira,amazonas ,-5,-64,set/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad3,ZAC 416,25%,celulose ,ucuuba puna,23.82273734,sao gabriel da cachoeira,amazonas ,-5,-64,set/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad3,ZAC 417,50%,celulose ,ucuuba puna,27.10256292,sao gabriel da cachoeira,amazonas ,-5,-64,set/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad3,ZAC 418,75%,celulose ,ucuuba puna,20.33826018,sao gabriel da cachoeira,amazonas ,-5,-64,set/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
+mad3,ZAC 419,100%,celulose ,ucuuba puna,22.60889244,sao gabriel da cachoeira,amazonas ,-5,-64,set/13,0.59,83.28,91.17,101,1000.89,26.21,2830,-3.96,trusted
