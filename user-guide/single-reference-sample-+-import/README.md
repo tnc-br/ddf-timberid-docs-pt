@@ -50,9 +50,9 @@ TimberID also allows you to import many reference samples at once through a csv 
 
 You may include any columns you wish and while TimberId will not display all of them in the  UI, they will be exported to Earth Engine as features at the latitude/longitude indicated.
 
-#### Required Import Fields
+#### Import Fields
 
-Importing does require the following columns with respective validation rules.
+Importing does require the following columns with respective validation rules. Note that some fields are required.
 
 <table><thead><tr><th width="168">Field</th><th width="168">Validation</th><th width="100">Required</th><th>Description</th></tr></thead><tbody><tr><td>code</td><td>none</td><td>Y</td><td>The unique id for a sample that has potentially multiple rows (one for each measurement)</td></tr><tr><td>trusted</td><td>['trusted', 'unknown', 'untrusted']</td><td>Y</td><td>'trusted' samples indicate a reference sample. <br>'untrusted' samples are those intended to run under origin verification. <br>'unknown' are those that do not have a precise lat/lon</td></tr><tr><td>lat</td><td>>=-90, &#x3C;=90</td><td>Y</td><td></td></tr><tr><td>lon</td><td>>=-180, &#x3C;=180</td><td>Y</td><td></td></tr><tr><td>d18O_cel</td><td>>=20, &#x3C;=32</td><td>N</td><td></td></tr><tr><td>d18O_wood</td><td>>=20, &#x3C;=32</td><td>N</td><td></td></tr><tr><td>d15N_wood</td><td>>=-5, &#x3C;=15</td><td>N</td><td></td></tr><tr><td>n_wood</td><td>>=0, &#x3C;=1</td><td>N</td><td></td></tr><tr><td>d13C_wood</td><td>>=-38, &#x3C;=20</td><td>N</td><td></td></tr><tr><td>c_wood</td><td>>=40, &#x3C;=60</td><td>N</td><td></td></tr><tr><td>d13C_cel</td><td>>-35, &#x3C;=-20</td><td>N</td><td></td></tr><tr><td>c_cel</td><td>>=40, &#x3C;=60</td><td>N</td><td></td></tr></tbody></table>
 
